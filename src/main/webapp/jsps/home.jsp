@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No:.</h1>
+<h1 align="center">Welcome to Hare Krishna.... Pvt Ltd. Ph No:.</h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
